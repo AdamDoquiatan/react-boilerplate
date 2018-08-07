@@ -6,7 +6,7 @@ import configureStore from './store/configureStore';
 import 'normalize.css/normalize.css';
 import './styles/styles.scss';
 
-// **IF USING REDUX**
+// **IF USING REDUX (set up configureStore.js)**
 // const store = configureStore();
 
 // const jsx = (
